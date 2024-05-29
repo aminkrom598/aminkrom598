@@ -85,7 +85,7 @@ dist
 # FuseBox cache
 .fusebox/
 
-# DynamoDB  files
+# DynamoDB  
 
 .tern-port
 
