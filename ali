@@ -31,7 +31,7 @@ build/Release
 
 # Dependency 
 node_modules/
-jspm_packages/
+/
 
 # TypeScript v1 files
 
