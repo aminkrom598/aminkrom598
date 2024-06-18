@@ -82,7 +82,7 @@ dist
 # Serverless 
 .serverless/
 
-# FuseBox 
+ FuseBox 
 .fusebox/
 
 # DynamoDB  
