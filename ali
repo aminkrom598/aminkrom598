@@ -33,7 +33,7 @@ build/Release
 node_modules/
 /
 
-# TypeScript v1 files
+ TypeScript v1 files
 
  TypeScript cache
 *.tsbuildinfo
