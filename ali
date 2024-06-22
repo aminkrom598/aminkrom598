@@ -1,6 +1,6 @@
  Logs
 *.log
-yarn-debug.log*
+-debug.log*
 yarn-error.log*
 lerna-.log*
 
