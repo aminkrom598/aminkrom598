@@ -40,7 +40,7 @@ node_modules/
 
  Optional npm cache directory
 
-# Optional eslint 
+ Optional eslint 
 .eslintcache
 
 .rpt2_cache/
