@@ -6,7 +6,7 @@ lerna-.log*
 
 
 
-*.pid
+pid
 *.seed
 *.pid.lock
 
