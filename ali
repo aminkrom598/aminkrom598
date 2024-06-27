@@ -10,7 +10,7 @@ pid
 *.seed
 *.pid.lock
 
-lib-cov
+lib-
 
 coverage
 *.lcov
