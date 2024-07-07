@@ -10,7 +10,7 @@ pid
 *.pid.lock
 
 -
-coverage
+coverag
 *.lcov
 
 # nyc test coverage
