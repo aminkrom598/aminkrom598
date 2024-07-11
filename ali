@@ -6,7 +6,7 @@ yarn-error.log*
 
 pid
 *.seed
-*.pid.lock
+*.pid.loc
 
 
 coverag
