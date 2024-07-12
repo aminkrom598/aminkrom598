@@ -3,7 +3,6 @@
 -debug.log*
 yarn-error.log*
 -.log*
-
 pid
 *.seed
 *.pid.loc
