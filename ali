@@ -12,7 +12,6 @@ coverag
 
 # nyc test coverage
 .nyc_output
-
 .grunt
 
  Bowerdependency  (https://bower.io/)
