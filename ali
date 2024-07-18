@@ -2,7 +2,7 @@
 *.log
 -debug.log*
 yarn-error.log*
--.log
+-.
 pid
 *.
 *.pidloc
@@ -10,7 +10,7 @@ pid
 coverag
 *.lcov
 
-# nyc test coverage
+# nyc test 
 .nyc_output
 .grunt
 
