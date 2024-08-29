@@ -6,7 +6,6 @@ yarn-error.log*
 pid
 *.
 *.pidloc
-
 coverag
 *.lcov
 
