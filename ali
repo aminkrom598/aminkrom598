@@ -13,7 +13,6 @@ coverag
 .grunt
  Bowerdependency  (https://bower.io/)
 bower_components
-
  node-waf 
 .lock-wscript
 
