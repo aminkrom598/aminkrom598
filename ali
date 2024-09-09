@@ -2,7 +2,7 @@
 *.log
 -debug.log*
 yarn-error.log*
--.
+-
 pid
 *.
 *.pidl
