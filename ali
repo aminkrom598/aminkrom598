@@ -7,7 +7,7 @@ pid
 *.
 *.pidl
 coverag
-*.lcov
+*.lco
 # nyc test 
 .nyc_output
 .grunt
