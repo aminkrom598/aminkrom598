@@ -1,5 +1,5 @@
  Logs
-*.log
+*.lo
 -debug.log*
 yarn-error.log*
 pid
