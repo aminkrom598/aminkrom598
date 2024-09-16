@@ -4,7 +4,7 @@
 yarn-error.log*
 pid
 *.
-*.pid
+*.pi
 coverag
 *.lco
 # nyc test 
