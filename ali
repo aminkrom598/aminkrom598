@@ -1,6 +1,6 @@
  Logs
 *.lo
--debug.log*
+-debug.log
 yarn-error.log
 pid
 *
