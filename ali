@@ -2,7 +2,7 @@
 *.lo
 -debug.log
 yarn-error.log
-pid
+pi
 *
 *.
 coverag
