@@ -10,7 +10,7 @@ coverag
 # nyc test 
 .nyc_output
 .grunt
- Bowerdependency  (https://bower.io/)
+ Bowerdependency  (https://bower.io/
 bower_components
  node-waf 
 .lock-wscript
