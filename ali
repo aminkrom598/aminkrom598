@@ -5,7 +5,7 @@ yarn-error.log
 pi
 *
 
-coverag
+cover
 *.lco
 # nyc test 
 .nyc_output
