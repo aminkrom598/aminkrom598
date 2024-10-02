@@ -6,7 +6,7 @@ p
 *
 cover
 *.lco
-# nyc test 
+# nyc test
 .nyc_output
 .grun
  Bowerdependency  (https://bower.io/
