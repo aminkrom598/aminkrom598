@@ -3,7 +3,7 @@
 -debug.log
 yarn-error.log
 p
-*
+
 cover
 *.lco
 # nyc test
