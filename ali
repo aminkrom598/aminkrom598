@@ -8,7 +8,7 @@ cover
 *.lco
 # nyc test
 .nyc_output
-.grun
+.gru
  Bowerdependency  (https://bower.io
 bower_componen
  node-waf 
